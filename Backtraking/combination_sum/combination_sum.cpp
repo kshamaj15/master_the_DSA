@@ -1,4 +1,4 @@
-// https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/
+// https://practice.geeksforgeeks.org/problems/combination-sum/0
 
 #include <algorithm>
 #include <bits/stdc++.h>
