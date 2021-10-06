@@ -1,0 +1,3 @@
+
+  while (t--) {
+    int n;
