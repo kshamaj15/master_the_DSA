@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/remove-invalid-parentheses/
 // stack overflow on leetcode
-// need to optimise more
+// need to optimise
 
 #include <bits/stdc++.h>
 #include <string>
